@@ -1,7 +1,14 @@
 # Login and Signup form using vue
 
 A small Vue 3 single-page application scaffolded with Vite. It includes basic routing and authentication-related components (Login, Signup, Home) and a shared `Navbar` component.
-
+## View Live
+```
+https://gabhishek-vueforms.netlify.app/
+```
+## 📸 Screenshots
+![f1](f1.png)
+![f2](f2.png)
+---
 ## ✨ Features
 - Simple Vue 3 + Vite setup
 - Client-side routing with `vue-router`
